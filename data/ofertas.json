@@ -1,0 +1,16 @@
+[
+    {
+        "empresa_id": "67fb150bbae73db892d06e4ead50e",
+        "empresa": "claro",
+        "titulo": "desarrollador junior frontend",
+        "descripcion": "necesitamos un desarrollador web ",
+        "requisitos": "js, react, angular, c#",
+        "ubicacion": "santo domingo",
+        "tipo_contrato": "indefinido",
+        "jornada": "flexible",
+        "salario": "45000",
+        "id": "67fb157ce072423eb28aa5b11baf8",
+        "fecha_publicacion": "2025-04-13 01:38:04",
+        "activa": true
+    }
+]

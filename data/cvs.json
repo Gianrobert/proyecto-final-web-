@@ -1,0 +1,25 @@
+[
+    {
+        "candidato_id": "67fb13e46f9deea29d067cb7a8b9d",
+        "nombre": "gianrobert",
+        "apellidos": "ramirez",
+        "telefono": "829-987-963",
+        "direccion": "pantoja",
+        "ciudad": "santo domingo",
+        "titulo_academico": "desarrollador de software",
+        "institucion": "itla",
+        "fecha_titulo": "2023-2025",
+        "ultimo_puesto": "programador frontend",
+        "ultima_empresa": "claro",
+        "fecha_experiencia": "2024-2025",
+        "habilidades": "js,php,react",
+        "idiomas": "ingles ",
+        "objetivo_profesional": "mi objetivo es aumentar mi expiriencia",
+        "logros": "",
+        "disponibilidad": "inmediata",
+        "redes": "",
+        "referencias": "",
+        "id": "67fb14bca4ca1386c10af1ad71b15",
+        "fecha_creacion": "2025-04-13 01:34:52"
+    }
+]

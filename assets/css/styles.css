@@ -1,0 +1,29 @@
+/* Estilos personalizados para EmpleoYa */
+
+/* Limitar texto a 3 líneas */
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Ajustes para espaciado en móviles */
+@media (max-width: 640px) {
+    .container {
+
+
+```js file="assets/js/main.js" type="code"
+// Funcionalidad JavaScript para EmpleoYa
+
+// Función para mostrar/ocultar menú móvil
+document.addEventListener('DOMContentLoaded', function() {
+    const menuToggle = document.getElementById('menu-toggle');
+    const mobileMenu = document.getElementById('mobile-menu');
+    
+    if (menuToggle && mobileMenu) {
+        menuToggle.addEventListener('click', function() {
+            mobileMenu.classList.toggle('hidden');
+        });
+    }
+});

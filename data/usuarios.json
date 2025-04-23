@@ -1,0 +1,22 @@
+{
+    "candidatos": [
+        {
+            "nombre": "gian",
+            "correo": "gian13@gmail.com",
+            "password": "$2y$12$SUkCaorcY66NoDFGqNn0pOtYugdLvC\/ZUDcRoVhJDf7uH\/ucjZSWa",
+            "id": "67fb13e46f9deea29d067cb7a8b9d",
+            "fecha_registro": "2025-04-13 01:31:16"
+        }
+    ],
+    "empresas": [
+        {
+            "nombre": "claro",
+            "correo": "claro@gmail.com",
+            "password": "$2y$12$hb3Ds5DFxJC7b3gyJTUIPuReNf0x2\/f0WaJxWg8NAQBJyWEhMmcA.",
+            "direccion": "santo domingo",
+            "telefono": "888-888-888",
+            "id": "67fb150bbae73db892d06e4ead50e",
+            "fecha_registro": "2025-04-13 01:36:12"
+        }
+    ]
+}
